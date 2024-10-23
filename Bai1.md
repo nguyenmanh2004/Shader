@@ -1,4 +1,4 @@
-# Shader
+# Bài 1 : Shader
 
 ## Kiến thức về lập trình đồ họa và ngôn ngữ Shader
 
